@@ -29,7 +29,7 @@ import org.springframework.context.annotation.Configuration;
                 ),
                 @Server(
                         description = "Servidor de Produccion",
-                        url = "http://localhost:8080/api/v1/equipos"//Poner el link del render
+                        url = "https://cbdf-rca-ejercicio-08.onrender.com"//Poner el link del render
                 )
         },
         tags = {
